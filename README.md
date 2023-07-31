@@ -5,7 +5,7 @@
 
 ---
 
-### About me
+### Sobre mi
 
 - Estudie en Campus politécnico Aceimar en Vigo, España
 
