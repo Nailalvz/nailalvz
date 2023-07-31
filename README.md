@@ -11,7 +11,7 @@
 
 - En estos momentos estoy aprendiendo **Angular, TypeScript y Desarrollo web**
 
-- Puedes contactar conmigo en el email **emaildeprueba@gmail.com**
+- Puedes contactar conmigo en el email **suareznaila@gmail.com**
 
 - Actualmente trabajo en **Gradiant**.
 
