@@ -39,4 +39,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nailalvz&theme=ambient-gradient&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&card_width=490)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nailalvz&show_icons=true&theme=bear)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nailalvz&show_icons=true&theme=bear)]
