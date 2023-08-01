@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <div align="center">
-        <img src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt" width="200"/>
+        <iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
     </div>
     <h1 align="center"> Hola 👋, mi nombre es Naila</h1>
     <h3 align="center">Estudié el ciclo superior de Desarrollo de aplicaciones multiplataforma. En él aprendimos sobre el desarrollo, implantación, documentación y mantenimiento  de aplicaciones móviles y aplicaciones de escritorio. Ahora estoy dando mis primeros pasos en el mundo del desarrollo después de obtener mi titulación, intentando mejorar y aprender día a día.</h3>
