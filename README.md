@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img serc="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
 <!--     <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/> -->
     <h1 align="center"> Hola 👋, mi nombre es Naila</h1>
     <h3 align="center">Estudié el ciclo superior de Desarrollo de aplicaciones multiplataforma. En él aprendimos sobre el desarrollo, implantación, documentación y mantenimiento  de aplicaciones móviles y aplicaciones de escritorio. Ahora estoy dando mis primeros pasos en el mundo del desarrollo después de obtener mi titulación, intentando mejorar y aprender día a día.</h3>
