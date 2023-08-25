@@ -9,7 +9,7 @@
 
 ### Sobre mi
 
-- Estudie en Campus politécnico Aceimar en Vigo, España
+- Estudié en Campus politécnico Aceimar en Vigo, España
 
 - En estos momentos estoy aprendiendo **Angular, TypeScript y Desarrollo web**
 
