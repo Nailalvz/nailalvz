@@ -11,7 +11,7 @@
 
 - Estudié en Campus politécnico Aceimar en Vigo, España
 
-- En estos momentos estoy aprendiendo **Angular, TypeScript y Desarrollo web**
+- En estos momentos estoy aprendiendo **Angular, TypeScript, Node.js, JavaScript y Desarrollo web**
 
 - Puedes contactar conmigo en el email **suareznaila@gmail.com**
 
