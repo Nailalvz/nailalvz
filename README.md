@@ -15,7 +15,7 @@
 
 - Puedes contactar conmigo en el email **suareznaila@gmail.com**
 
-- Actualmente estoy de prácticas en **Gradiant**
+- Actualmente estoy trabajando en **Gradiant**
 
 <div align="left">
     <h3>🧰 Lenguajes y herramientas</h3>
