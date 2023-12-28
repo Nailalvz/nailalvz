@@ -4,8 +4,6 @@
     <h1 align="center"> Hola 👋, mi nombre es Naila</h1>
 </div>
 
----
-
 ### Sobre mi
 
 - Estudié en Campus politécnico Aceimar en Vigo, España
