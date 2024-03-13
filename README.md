@@ -8,7 +8,7 @@
 
 - Estudié en Campus politécnico Aceimar en Vigo, España
 
-- En estos momentos estoy aprendiendo **Angular, Node.js, JavaScript, MongoDB y Desarrollo web**
+- En estos momentos estoy aprendiendo **Flutter y Dart**
 
 - Puedes contactar conmigo en el email **suareznaila@gmail.com**
 
@@ -29,6 +29,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
+
     </div>
 </div>
 
