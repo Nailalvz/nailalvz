@@ -39,4 +39,6 @@
 
 ### Mis estadísticas
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailalvz&hide_border=true&layout=compact" align="center" /></div>  
+![Nailalvz's Stats](https://github-readme-stats.vercel.app/api?username=Nailalvz&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![Nailalvz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nailalvz&theme=material-palenight&hide_border=true)
+![Nailalvz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nailalvz&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
