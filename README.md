@@ -6,8 +6,8 @@
 
 ### Sobre mi
 
-- Estudié en Campus politécnico Aceimar en Vigo, España
-
+- Diseñadora y desarrolladora de interfaces
+  
 - En estos momentos estoy aprendiendo **React, tailwind, next.js y turborepo**
 
 - Puedes contactar conmigo en el email **suareznaila@gmail.com**
