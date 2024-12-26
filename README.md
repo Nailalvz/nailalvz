@@ -8,7 +8,7 @@
 
 - Estudié en Campus politécnico Aceimar en Vigo, España
 
-- En estos momentos estoy aprendiendo **Flutter y Dart**
+- En estos momentos estoy aprendiendo **React, tailwind, next.js y turborepo**
 
 - Puedes contactar conmigo en el email **suareznaila@gmail.com**
 
@@ -17,6 +17,8 @@
 <div align="left">
     <h3>🧰 Lenguajes y herramientas</h3>
     <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
