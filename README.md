@@ -1,46 +1,12 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
-<!--     <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/> -->
-    <h1 align="center"> Hola 👋, mi nombre es Naila</h1>
-</div>
+# 💫 Sobre mí:
+👋 ¡Hola! Soy Naila<br><br>🖥️ Diseñadora y desarrolladora de interfaces web y móvil.<br>🎨 Disfruto transformando ideas en interfaces que combinan funcionalidad, equilibrio visual y un toque de creatividad.<br><br>🚀 **Habilidades**<br>- Diseño de interfaces (UI/UX)<br>- Prototipado interactivo<br>- Desarrollo frontend (HTML, CSS, JS, Angular, Dart y Flutter)<br>- Accesibilidad y diseño responsivo<br><br>📖 **Lo que estoy aprendiendo**<br>🌱 Estoy en constante evolución profesional. Actualmente estoy trabajando en:<br>- Curso de UX/UI: Profundizando en el diseño centrado en el usuario y prototipado avanzado.<br>- React y Next.js: Mejorando mis habilidades desarrollo de aplicaciones dinámicas.<br>- TailwindCSS: Dominando el diseño eficiente y flexible con clases utilitarias.<br>- Turborepo: Aprendiendo a gestionar repositorios monorepo para proyectos a gran escala.
 
-### Sobre mi
 
-- Diseñadora y desarrolladora de interfaces
-  
-- En estos momentos estoy aprendiendo **React, tailwind, next.js y turborepo**
+# 💻 Tecnologías utilizadas:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+# 📊 Estadísticas de GitHub:
+![](https://github-readme-stats.vercel.app/api?username=nailalvz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nailalvz&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nailalvz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Puedes contactar conmigo en el email **suareznaila@gmail.com**
-
-- Actualmente estoy trabajando en **Gradiant**
-
-<div align="left">
-    <h3>🧰 Lenguajes y herramientas</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODEJS" alt="NODEJS" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-    </div>
-</div>
-
----
-
-### Mis estadísticas
-
-![Nailalvz's Stats](https://github-readme-stats.vercel.app/api?username=Nailalvz&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![Nailalvz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nailalvz&theme=material-palenight&hide_border=true)
-![Nailalvz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nailalvz&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
